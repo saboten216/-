@@ -23,9 +23,6 @@ const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 25200;
 const int   daylightOffset_sec = 3600;
 
-
-
-
 void setup() {
     
     Serial.begin(115200);
@@ -92,7 +89,6 @@ void loop() {
         String Updata = web +Hour+":"+Min+":"+ Sec + "," + I + "," + h +"," + t;
         Serial.println(Updata);
 
-        
         HTTPClient http;
         USE_SERIAL.print("[HTTP] begin...\n");
         http.begin(Updata); //HTTP
