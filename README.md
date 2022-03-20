@@ -16,3 +16,4 @@
 - 蒐集溫溼度，繪製圖表 `google sheet`
 - 加上序號
 - 加上時間
+- [溫溼度紀錄表](https://docs.google.com/spreadsheets/d/1Loe5P8JnAEPR9dCbh2FyJZVk8SKiVBj4O5C-Pu08fbg/edit?usp=sharing)
