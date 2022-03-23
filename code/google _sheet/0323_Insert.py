@@ -19,7 +19,17 @@ seconds = time.time()
 local_time = time.ctime(seconds)
 rm_te = random.randint(20, 30)
 
+# for i in range (0,10,1): #10次
+#     seconds = time.time()
+#     local_time = time.ctime(seconds)
+#     rm_te = random.randint(20, 30)
+#     rm_h = random.randint(50,70)
+#     new = pd.DataFrame({'時間': [local_time], '溫度': [rm_te],'濕度': [rm_h]})
+#     df1=df1.append(new,ignore_index=True)
+
+
 df1 = pd.DataFrame({'時間': [local_time], '溫度': [rm_te],'濕度': [70]})
 # 新增進去資料表當中(copy_index代表是否要加上序號)
 wks.set_dataframe(df1, 'A3', copy_index=False)
 print(df1)
+
