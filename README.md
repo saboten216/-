@@ -17,3 +17,9 @@
 - 加上序號
 - 加上時間
 - [溫溼度紀錄表](https://docs.google.com/spreadsheets/d/1Loe5P8JnAEPR9dCbh2FyJZVk8SKiVBj4O5C-Pu08fbg/edit?usp=sharing)
+
+## 0323
+
+- 利用api&python在Google Sheet添加一筆資料
+- 在Google Sheet 新增10筆資料 `random`
+- 使用ESP32新增資料 `arduino語法`
