@@ -23,3 +23,7 @@
 - 利用api&python在Google Sheet添加一筆資料
 - 在Google Sheet 新增10筆資料 `random`
 - 使用ESP32新增資料 `arduino語法`
+
+## 0330
+
+- Websocket `python` `javascript`
