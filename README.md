@@ -32,8 +32,14 @@
 
 - MQTT `python`
 - [課程用code參考](https://ithelp.ithome.com.tw/articles/10227131)
+- 定時(3秒)透過 MQTT 發送訊息給組員,訊息格式：{‘StudentID’ : “你的學號” , ‘Time’ : 當前電腦時間}
+- 改寫MQTT_Subscribe.py，組員publish photo，收到後儲存至本地
+
 
 ## 0420
 
 - NB-IOT `SIM 7000e`
 - [參考](https://frankchang.me/2018/12/18/sim7000c/)
+- 發送AT，回傳OK
+- SIM7000e 回應OK 後亮紅燈，連網則熄滅紅燈
+
