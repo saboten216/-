@@ -36,3 +36,4 @@
 ## 0420
 
 - NB-IOT `SIM 7000e`
+- [參考](https://frankchang.me/2018/12/18/sim7000c/)
