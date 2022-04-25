@@ -28,6 +28,11 @@
 
 - Websocket `python` `javascript`
 
+## 0413
+
+- MQTT `python`
+- [課程用code參考](https://ithelp.ithome.com.tw/articles/10227131)
+
 ## 0420
 
 - NB-IOT `SIM 7000e`
