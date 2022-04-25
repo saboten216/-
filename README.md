@@ -27,3 +27,7 @@
 ## 0330
 
 - Websocket `python` `javascript`
+
+## 0420
+
+- NB-IOT `SIM 7000e`
