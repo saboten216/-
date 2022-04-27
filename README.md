@@ -43,3 +43,8 @@
 - 發送AT，回傳OK
 - SIM7000e 回應OK 後亮紅燈，連網則熄滅紅燈
 
+## 0427
+
+- Python訂閱MQTT後，取得主題下的數值，傳輸至google sheet，將Google sheet的資料做成圖表
+
+- [MQTT溫溼度紀錄](https://docs.google.com/spreadsheets/d/12nh3EaRz9wa4FMR0Uzv3iqxo3zb-Y4DewbsGLv4hUG0/edit#gid=0)
